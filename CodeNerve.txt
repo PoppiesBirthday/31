@@ -12,4 +12,4 @@ My favorite quote, "<span id="k">Grün steht an zweiter Stelle</span>". <!-- sjk
 
 <p><span id="b">Happy <!-- kjsdfhkjdhsfkjdshfkj -->Birthday <!-- kjsdfhkjdhsfkjdshfkj -->Matz <!-- kjsdfhkjdhsfkjdshfkj -->:<!-- kjsdfhkjdhsfkjdshfkj -->-<!-- kjsdfhkjdhsfkjdshfkj -->)<!-- kjsdfhkjdhsfkjdshfkj -->!</span></p>
 
-<span id="a">code@PoppiesBirthday</span>:<span id="b">~</span><span id="c">$</span> end <!-- kjsdfhkjdhsfkjdshfkj -->message.
+<span id="a">code@PoppiesBirthday</span>:<span id="b">~</span><span id="c">$</span> message <!-- kjsdfhkjdhsfkjdshfkj -->end.
