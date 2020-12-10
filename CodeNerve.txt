@@ -4,7 +4,7 @@
 
 
 <p>Hallo Mr. Gift,</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your <span id="a">portfolio</span> here<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> You can also tell what you've worked and known and what skills you have, you can also give link to your <span id="b">portfolio</span> here<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
