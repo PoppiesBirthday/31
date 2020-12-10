@@ -4,8 +4,7 @@
 
 
 <p>Hallo Mr. Gift,</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-
-Give your project links or something like that. <span id="b">Grün steht an zweiter Stelle</span> <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+die Goldbarren liegen im<span id="b">Aktenkoffer</span> <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your <span id="b">portfolio</span> here<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
